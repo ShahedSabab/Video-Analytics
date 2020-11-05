@@ -11,3 +11,6 @@ This is a proof of concept project focusing on activity recognition from video f
 ## How to run:
 Just use the following commands from the cmd/terminal: 
 >docker-compose -f docker-compose-deploy.yml up --build
+
+Goto the following address from any browser:
+>127.0.0.1:8080
