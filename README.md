@@ -4,6 +4,7 @@ This is a proof of concept project focusing on activity recognition from video f
 
 • The application is developed in Django. <br>
 • REST Api is used to communicate with the model. <br>
+• The system also triggers an email to the specified address if the model detects any unatuhorized activities.<br>
 
 
 ## How to run:
