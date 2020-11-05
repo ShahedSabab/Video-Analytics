@@ -1,6 +1,9 @@
-# Simple Django Hello World Starter Template
+# Video Analytics: UI
 
-A basic Django 3.0 starter project.
+This is a proof of concept project focusing on activity recognition from video footage. The application lets user to select a video from the local storage and sends it to a model in the backend through REST API. The application also receives the feedback from the model and shows on the interface.
+
+• The application is developed in Django.
+• REST Api is used to communicate with the model.
 
 
 ## Usage
